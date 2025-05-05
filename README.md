@@ -26,6 +26,7 @@
 
 ![](https://velog.velcdn.com/images/tomy8964/post/7513b3c4-544a-4cd4-a92c-bf6c12a52c92/image.png)
 
+
 ## 2. Apply Secrets - 시크릿에 키를 등록합니다.
 
 `Settings - Secrets and variables - Actions`
